@@ -4,8 +4,8 @@ const NavBar = () =>
 {
     const { amount } = useSelector(state => state.cart);
     return (
-        <div className='bg-blue-500 text-white px-10 py-4'>
-            <div className='flex justify-between'>
+        <div className='bg-blue-500 text-white px-10 h-16 flex items-center'>
+            <div className='flex justify-between w-[95%]'>
                 <h1 className='text-2xl font-mono font-semibold'>Fake Store</h1>
                 <div className='flex justify-center items-center '>
                     <svg className='w-[30px] h-[30px]' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round">
