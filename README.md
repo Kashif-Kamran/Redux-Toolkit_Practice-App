@@ -6,10 +6,10 @@ The Item Cart Service is a practice project developed to deepen understanding of
 ## Installation
 ```
 1. Clone the repository to your local machine:
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/Kashif-Kamran/item-cart-service.git
    
 2. Navigate to the project directory:
-   cd your_repository
+   cd item-cart-service
    
 3. Install dependencies:
    npm install
